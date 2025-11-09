@@ -1,0 +1,42 @@
+# Environment variables
+.env
+
+# Uploaded files (keep structure, ignore content)
+storage/products/*
+!storage/products/.gitkeep
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# Vendor
+vendor/
+
+# Coverage
+coverage/
+*.cover
+*.prof
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
