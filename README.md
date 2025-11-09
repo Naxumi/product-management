@@ -1183,4 +1183,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using Go, Next.js, and PostgreSQL**
 
-*Last updated: November 2024*
+*Last updated: November 2025*
